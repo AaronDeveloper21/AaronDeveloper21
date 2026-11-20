@@ -31,3 +31,9 @@ I enjoy solving problems, improving existing applications, and building function
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarondeveloper21&theme=tokyonight&layout=compact" width="45%" />
 </div>
+
+<p>
+   <h3> 🤝🏻 Connect with me </h3>
+  <a href="mailto:georgeanm2000@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/george-aaron-noboa-4b4324303"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
