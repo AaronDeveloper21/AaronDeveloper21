@@ -1,16 +1,24 @@
-## Hi there 👋
+<h2 title="hehehe"> Hey 👋, I'm Aaron</h2>
 
-<!--
-**AaronDeveloper21/AaronDeveloper21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### About me🧑:
+I'm a Full Stack Web Developer with experience in developing web applications and collaborating on software development projects.<br/><br/>
+My background includes working with Python, Django, PHP, Laravel, JavaScript, HTML, CSS, and relational databases.<br/><br/>
+I enjoy solving problems, improving existing applications, and building functional web solutions..<br/> <br/> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img 
+  src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
+  alt="illustration of a computer" 
+  min-width="400px" 
+  max-width="400px" 
+  width="400px" 
+  align="right" 
+/>
+- 💻 Backend: Python, Django, PHP, Laravel.
+- 🎨 Frontend: HTML, CSS, JavaScript.
+- 🗄️ Databases: MySQL, SQL Server.
+- 🔧 Development: Bug fixing, debugging, and module development.
+- 🛠️ Tools: Git, GitHub.
+- 🌱 Currently refreshing and expanding my Full Stack Development skills.
+- 🚀 Interested in building web applications, learning new technologies, and contributing to meaningful projects.
+- 🤝 Open to collaboration and new development opportunities.
